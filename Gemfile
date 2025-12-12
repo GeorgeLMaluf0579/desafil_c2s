@@ -36,7 +36,7 @@ gem "bootstrap", "~> 5.3"
 gem "sassc-rails", "~> 2.1"
 
 # Add sidekiq
-gem "sidekiq", "~> 8.0"
+gem "sidekiq", "~> 8.1"
 gem "sidekiq-scheduler", "~> 6.0"
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
