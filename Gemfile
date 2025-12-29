@@ -64,7 +64,7 @@ group :development, :test do
   # Static analysis for security vulnerabilities [https://brakemanscanner.org/]
   gem "brakeman", require: false
 
-  gem "pry", "~> 0.15.2"
+  gem "pry", "~> 0.16.0"
 
   gem "selenium-webdriver", "~> 4.38"
 
